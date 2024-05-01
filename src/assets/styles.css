@@ -1,0 +1,27 @@
+@import "fonts/RobotoRegular/styles.css";
+@import "fonts/RobotoMedium/styles.css";
+@import "fonts/Gilroy-Medium/style.css";
+@import "fonts/Gilroy-Semibold/style.css";
+
+body {
+    margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}
+
+h1,h2,h3,h4 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}

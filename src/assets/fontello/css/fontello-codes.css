@@ -1,0 +1,5 @@
+
+.icon-logo:before { content: '\e800'; } /* '' */
+.icon-star:before { content: '\e801'; } /* '' */
+.icon-ok:before { content: '\e802'; } /* '' */
+.icon-link:before { content: '\e803'; } /* '' */
